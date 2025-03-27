@@ -48,8 +48,8 @@
 
 ### 📊 GitHub Stats  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrapratap2340&show_icons=true&theme=radical">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrapratap2340&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrapratap19&show_icons=true&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrapratap19&theme=radical">
 </p>
 
 ---
