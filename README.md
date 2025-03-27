@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rudra Pratap Singh 👋</h1>
 
 <p align="center">
-  🎓 B.Tech in AI & DS at IIIT Raichur | 🚀 Academic Secretary | 🏆 SIH 2024 Finalist  
+  🎓 B.Tech in AI & DS at IIIT Raichur | 🚀 Academic Secretary   
   <br>
   💡 Full-Stack Developer | AI Enthusiast | Open Source Contributor  
 </p>
