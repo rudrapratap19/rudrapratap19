@@ -3,17 +3,16 @@
 <p align="center">
   🎓 B.Tech in AI & DS at IIIT Raichur | 🚀 Academic Secretary   
   <br>
-  💡 Full-Stack Developer | AI Enthusiast | Open Source Contributor  
+  💡 Full-Stack Developer | AI Enthusiast   
 </p>
 
 ---
 
 ### 🚀 About Me  
-- 🔭 **Currently working on:** Flutter & Firebase Apps, AI Projects  
-- 💼 **Founder of Placement Cell, IIIT Raichur**  
+- 🔭 **Currently working on:** Flutter & Firebase Apps, AI Projects 
 - 🎯 **Technical Skills:** `Flutter`, `Django`, `Firebase`, `Supabase`, `AI/ML`, `FastAPI`  
 - 🌱 **Learning:** Cloud Computing (AWS, Firebase)  
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/rudrapratap2340) | [Email](mailto:rudrapratap2340@gmail.com)  
+- 📫 **How to reach me:** [LinkedIn](http://www.linkedin.com/in/rudra-pratap-singh-677149314) | [Email](mailto:rudrapratap2340@gmail.com)  
 
 ---
 
@@ -33,17 +32,17 @@
 #### **1️⃣ Virtual Study Environment (VSE)**
 - **📂 Tech Used:** Flutter, Firebase, Supabase  
 - **💡 Features:** Tracks study productivity, AI-based monitoring, study groups  
-- **🔗 GitHub:** [Repo](https://github.com/rudrapratap2340/Virtual-Study-Environment)  
+- **🔗 GitHub:** [Repo](https://github.com/priyanshiiitr/Vitual-Study-Environment-)  
 
 #### **2️⃣ ArenaFlow**  
 - **📂 Tech Used:** Flutter, Firebase  
 - **💡 Features:** Tournament & Event Management  
-- **🔗 GitHub:** [Repo](https://github.com/rudrapratap2340/ArenaFlow)  
+- **🔗 GitHub:** [Repo](https://github.com/rudrapratap19/ArenaFlow)  
 
 #### **3️⃣ CampusCare**  
 - **📂 Tech Used:** Flutter, Firebase  
 - **💡 Features:** College complaint management system  
-- **🔗 GitHub:** [Repo](https://github.com/rudrapratap2340/CampusCare)  
+- **🔗 GitHub:** [Repo](https://github.com/rudrapratap19/Campus-care)
 
 ---
 
@@ -56,8 +55,8 @@
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudrapratap2340)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudrapratap2340)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rudra-pratap-singh-677149314)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudrapratap19)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrapratap2340@gmail.com)  
 
 ---
