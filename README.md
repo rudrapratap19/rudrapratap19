@@ -11,7 +11,7 @@
 ### 🚀 About Me  
 - 🔭 **Currently working on:** Flutter & Firebase Apps, AI Projects 
 - 🎯 **Technical Skills:** `Flutter`, `Django`, `Firebase`, `Supabase`, `AI/ML`, `FastAPI`  
-- 🌱 **Learning:** Cloud Computing (AWS, Firebase)  
+- 🌱 **Learning:** OpenCV  
 - 📫 **How to reach me:** [LinkedIn](http://www.linkedin.com/in/rudra-pratap-singh-677149314) | [Email](mailto:rudrapratap2340@gmail.com)  
 
 ---
@@ -37,7 +37,7 @@
 #### **2️⃣ ArenaFlow**  
 - **📂 Tech Used:** Flutter, Firebase  
 - **💡 Features:** Tournament & Event Management  
-- **🔗 GitHub:** [Repo](https://github.com/rudrapratap19/ArenaFlow)  
+- **🔗 GitHub:** [Repo](https://github.com/rudrapratap19/ArenaFlow-main) 
 
 #### **3️⃣ CampusCare**  
 - **📂 Tech Used:** Flutter, Firebase  
